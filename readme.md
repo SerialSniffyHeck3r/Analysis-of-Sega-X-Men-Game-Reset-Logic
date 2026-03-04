@@ -119,7 +119,9 @@ That means:
 
 In practice, this makes that particular late‑game puzzle **impossible** on real Nomad hardware, unless you use some external trick (like rewinding in an emulator, patching the ROM, or hardware mods).
 
-It is one of those charming, slightly cursed design choices from the era where developers assumed a very specific physical console in front of the player.
+It is one of those charming, slightly cursed design choices from the era where developers assumed a very specific physical console in front of the player...
+
+But still, its a design failure of Nomad device itself, not a problem of game implementation...
 
 ---
 
