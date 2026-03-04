@@ -18,8 +18,6 @@ This document explains, at a high level but with real technical details, how tha
 - how the 68000 CPU boots
 - how the game uses RAM and a “magic value” to detect that you pressed RESET instead of power‑cycling the console
 
-The goal is to stay at around **C1‑level English**: not overly academic, but still precise and technical enough for people who enjoy this kind of hardware/software archaeology.
-
 ---
 
 ## The infamous “RESET THE COMPUTER!” moment
